@@ -67,6 +67,16 @@ Food-Delivery/
 http://localhost:5173
 
 Screenshots are provided in screenshot folder
+<img width="1278" height="621" alt="Screenshot 2026-11-24 193355" src="https://github.com/user-attachments/assets/479fa6ac-af90-493d-a8e0-1bf9ca689352" />
+<img width="1309" height="673" alt="Screenshot 2026-11-24 193333" src="https://github.com/user-attachments/assets/045536c0-335e-4fed-aebb-cec6cd5e70a1" />
+<img width="1172" height="624" alt="Screenshot 2026-11-24 193504" src="https://github.com/user-attachments/assets/72680dfa-4615-4690-8969-5d9a0c80c8c0" />
+<img width="1278" height="540" alt="Screenshot 2026-11-24 193434" src="https://github.com/user-attachments/assets/6bf5c201-6289-4cf2-99dd-b38cf047db5c" />
+<img width="846" height="367" alt="Screenshot 2026-11-24 193415" src="https://github.com/user-attachments/assets/ad27f4f0-a829-43a6-902c-b6f38eea41d2" />
+
+
+
+
+
 
 
 🔮 Future Enhancements
